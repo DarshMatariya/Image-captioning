@@ -41,9 +41,13 @@ A **Jupyter Notebook**‑powered pipeline that builds an image-captioning model 
 - (Optional) Jupyter Notebook for execution  
 - Numpy, tqdm, matplotlib (for data & visuals)
 
-## How to run ?
-git clone https://github.com/DarshMatariya/Image-captioning.git
-cd Image-captioning
-pip install -r requirements.txt
-jupyter notebook  
+## How to Run This Project
+
+1. Clone the repository:  
+   git clone https://github.com/DarshMatariya/Image-captioning.git  
+
+2. Navigate to the notebook folder:  
+   cd notebook  
+
+3. Open and run the Colab notebook named 'Image_Captioning.ipynb'.
 
